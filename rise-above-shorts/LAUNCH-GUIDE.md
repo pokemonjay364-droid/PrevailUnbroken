@@ -93,7 +93,7 @@ Follow these steps in order to get your site live and sharing!
 3. **Configure Source:**
    - Under "Build and deployment" section:
    - Select: **Deploy from a branch**
-   - Branch dropdown: Select **main** (or your default branch)
+   - Branch dropdown: Select **`rise-above-shorts`**  ← **IMPORTANT: Use this branch**
    - Folder dropdown: Select **/ (root)**
    - Click **Save**
 
@@ -102,14 +102,16 @@ Follow these steps in order to get your site live and sharing!
    - This typically takes 1-2 minutes
    - You can check the progress in the "Deployments" section
 
+**Your live site will be at:**
+```
+https://pokemonjay364-droid.github.io/PrevailUnbroken/rise-above-shorts/
+```
+
 ---
 
 ## STEP 3: Test Your Site
 
-Once GitHub Pages is enabled, your site will be live at:
-```
-https://pokemonjay364-droid.github.io/PrevailUnbroken/rise-above-shorts/
-```
+Once GitHub Pages is enabled, your site will be live at the URL above.
 
 ### Testing Checklist:
 
@@ -316,7 +318,7 @@ Looking forward to helping you Rise Above!
 - [ ] All thumbnails uploaded with correct names
 - [ ] PDF uploaded with correct name
 - [ ] All videos uploaded with correct names
-- [ ] GitHub Pages enabled
+- [ ] GitHub Pages enabled (from `rise-above-shorts` branch)
 - [ ] Landing page tested and working
 - [ ] Videos play correctly
 - [ ] PDF downloads correctly
